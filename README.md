@@ -8,3 +8,16 @@ Lost in the Virtual Creepy World of Zombies, Find the key for way to home and fe
 Devices used ---> VR HeadSet, Contoller .
 
 Platform supported by game ---> Windows , Android 5.0(and above) .
+
+
+Rules For Playing Game:
+1.use Arrow keys to move.
+2.use ctrl key to shoot.
+3.find the key then go to your home.
+4. Beware of the Zombies.
+5. Crystals increases your health.
+6. Use touchpad using one finger for head movements.
+
+
+link for exe file of Application:
+https://drive.google.com/open?id=1K9H1NG1HBwc8H8Quh5nlofpOdgxmuShF
